@@ -8,5 +8,6 @@
  
  | S.No | Name |
  |-------|------|
- |   1   | lakshmi|
+ |   1   | Lakshmi |
+ |   2   | Nadh    |
  
